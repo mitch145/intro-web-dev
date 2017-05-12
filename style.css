@@ -9,3 +9,10 @@ body {
 .jumbotron-text {
 	color: #3498db;
 }
+
+.project-image {
+	padding: 20px 20px 20px 20px;
+	/* T R B L*/
+	/*padding: 20px;*/
+
+}
